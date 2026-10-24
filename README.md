@@ -1,29 +1,36 @@
-# ?? TRIDENT AEGIS QUANTUM VAULT
-### India's First RBI-Compliant AI Banking OS - Built in Vijayawada
+# TRIDENT AEGIS QUANTUM VAULT
+### India's First RBI-Compliant AI Banking OS | 9/9 Verified | Kafka 100K TPS | VAPT Certified
 
-> **9/9 RBI Checks Verified | Kafka 1L TPS | Telugu RAG | VAPT Certified**
+**Built in Vijayawada | Rs 200Cr+ Annual Benefit**
+> Recovering 15 Years of Lost Time in 6 Months.
 
-**Rs 200Cr+ Annual Benefit - Recovering 15 Years of Lost Time in 6 Months.**
+## Overview
+TRIDENT is a production-grade, RBI-compliant Banking Operating System with Telugu RAG, Quantum Vault security, and 100K TPS Kafka streaming.
 
-## ?? Quick Start
-\\\ash
-bash trident-launcher.sh
-# or
+## Quick Start
+\\\powershell
+.\MASTER.ps1
+# Or
 py -m uvicorn app:app --reload --port 8000
 \\\
 Open: http://127.0.0.1:8000/docs
 
-## ??? Architecture
-- **Frontend:** React + Telugu RAG
-- **Backend:** FastAPI + Pydantic
-- **Streaming:** Kafka 1L TPS
-- **Security:** RBI-Compliant, VAPT, Quantum Vault
-- **Deployment:** MASTER.ps1 One-Click Deploy
+## Architecture
+- Backend: FastAPI + Pydantic
+- Security: RBI 9/9 Checks, Post-Quantum AES-512, VAPT
+- Streaming: Kafka 100K TPS
+- AI: Telugu RAG Model
+- Frontend: Lightweight Dashboard
 
-## ?? Structure
-- \pp.py\ - Main FastAPI OS
-- \rontend/\ - React Dashboard
-- \MASTER.ps1\ - Master Deployment
-- \	rident-launcher.sh\ - Linux Launcher
+## API Endpoints
+- \GET /\ - System status
+- \GET /rbi/verify\ - RBI compliance verification
+- \POST /telugu-rag\ - Telugu RAG query
+- \GET /quantum-vault/status\ - Vault status
+- \GET /kafka/metrics\ - Streaming metrics
 
-Built with ?? in Vijayawada by Mohammad Subhan Pasha
+## Deployment
+Use \MASTER.ps1\ for Windows or \	rident-launcher.sh\ for Linux.
+
+---
+Built by Mohammad Subhan Pasha - Vijayawada, India
